@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
 
             else -> R.drawable.ic_dice_6
         }
-    
+
         image.setImageResource(drawImage)
     }
 }
